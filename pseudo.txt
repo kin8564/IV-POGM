@@ -1,5 +1,8 @@
-// Written for C language (may be subject to change)
-// STM32L475RGT6
+// Main board : STM32L475RGT6
+// Donor Board : STM32F746NGH6
+// https://os.mbed.com/platforms/ST-Discovery-F746NG/
+
+// Be sure to switch selected software pack when board arrives
 
 // Initialize device components
 // 	Disable interrupts
